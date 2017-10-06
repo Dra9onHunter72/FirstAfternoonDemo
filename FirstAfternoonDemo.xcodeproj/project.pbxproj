@@ -54,14 +54,30 @@
 		7BDBB0281F88010B005933E6 /* FirstAfternoonDemo */ = {
 			isa = PBXGroup;
 			children = (
-				7BDBB0291F88010B005933E6 /* AppDelegate.swift */,
-				7BDBB02B1F88010B005933E6 /* ViewController.swift */,
+				7BDBB03C1F8812D0005933E6 /* Controller */,
 				7BDBB02D1F88010B005933E6 /* Main.storyboard */,
 				7BDBB0301F88010B005933E6 /* Assets.xcassets */,
 				7BDBB0321F88010B005933E6 /* LaunchScreen.storyboard */,
-				7BDBB0351F88010B005933E6 /* Info.plist */,
+				7BDBB03D1F8812F3005933E6 /* Settings */,
 			);
 			path = FirstAfternoonDemo;
+			sourceTree = "<group>";
+		};
+		7BDBB03C1F8812D0005933E6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				7BDBB0291F88010B005933E6 /* AppDelegate.swift */,
+				7BDBB02B1F88010B005933E6 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		7BDBB03D1F8812F3005933E6 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				7BDBB0351F88010B005933E6 /* Info.plist */,
+			);
+			path = Settings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
