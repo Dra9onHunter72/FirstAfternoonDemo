@@ -38,8 +38,6 @@ class ViewController: UIViewController
         return newColor
     }
     
-    
-    
     override func viewDidLoad()
     {
         super.viewDidLoad()
